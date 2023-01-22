@@ -1,5 +1,7 @@
 # Coursera-JavaScript-Security-Refreshers
 
+[javascript-security-refreshers](https://www.coursera.org/learn/javascript-security-refreshers)
+
 This course is a Secure Javascript Programming Overview. It gives the student an introduction to JavaScript security and covers important topics like authentication best practices and refreshers on  JavaScript, Web browsers and Node.js.
 
 An exploration of Java and its runtime environments. In this course, we will cover some base concepts of JavaScript and its runtime environments. We will start by doing a few refreshers on the languages and its history; then we will look at an overview of web browsers and Node.js as JavaScript runtimes.
