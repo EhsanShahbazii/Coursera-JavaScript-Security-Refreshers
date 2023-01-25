@@ -1,6 +1,8 @@
 # Coursera-JavaScript-Security-Refreshers
 
-[javascript-security-refreshers](https://www.coursera.org/learn/javascript-security-refreshers)
+![preview](https://ehsan.storage.iran.liara.space/git-hub/Coursera-JavaScript-Security-Refreshers/preview.jpeg)
+
+### [javascript-security-refreshers](https://www.coursera.org/learn/javascript-security-refreshers)
 
 This course is a Secure Javascript Programming Overview. It gives the student an introduction to JavaScript security and covers important topics like authentication best practices and refreshers on  JavaScript, Web browsers and Node.js.
 
