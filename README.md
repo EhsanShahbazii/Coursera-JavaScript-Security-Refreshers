@@ -11,4 +11,8 @@ An exploration of Java and its runtime environments. In this course, we will cov
 This course explores web authentication and best practices. Here, we will go through refreshers on authentication and a bit of cryptography. We will cover the case of cookies and non-cookies-based front-end authentication. We will also cover best practices in term of front-end identity management.
 
 - ### [Week 1 (Introduction to Secure JavaScript Programming)](Week%201%20(Introduction%20to%20Secure%20JavaScript%20Programming))
+  - [1-Introduction to JavaScript Security-note](Week%201%20(Introduction%20to%20Secure%20JavaScript%20Programming)/1-Introduction%20to%20JavaScript%20Security-note.md)
+  - [2-JavaScript refreshers-notes](Week%201%20(Introduction%20to%20Secure%20JavaScript%20Programming)/2-JavaScript%20refreshers-notes.md)
   - [2-JavaScript refreshers.md](Week%201%20(Introduction%20to%20Secure%20JavaScript%20Programming)/2-JavaScript%20refreshers.md)
+  - [3-VideoWeb browser refreshers-note](Week%201%20(Introduction%20to%20Secure%20JavaScript%20Programming)/3-VideoWeb%20browser%20refreshers-note.md)
+  - [4-Node.js refreshers-note](Week%201%20(Introduction%20to%20Secure%20JavaScript%20Programming)/4-Node.js%20refreshers-note.md)
