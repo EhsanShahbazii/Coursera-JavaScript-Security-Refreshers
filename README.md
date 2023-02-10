@@ -16,3 +16,4 @@ This course explores web authentication and best practices. Here, we will go thr
   - [2-JavaScript refreshers.md](Week%201%20(Introduction%20to%20Secure%20JavaScript%20Programming)/2-JavaScript%20refreshers.md)
   - [3-VideoWeb browser refreshers-note](Week%201%20(Introduction%20to%20Secure%20JavaScript%20Programming)/3-VideoWeb%20browser%20refreshers-note.md)
   - [4-Node.js refreshers-note](Week%201%20(Introduction%20to%20Secure%20JavaScript%20Programming)/4-Node.js%20refreshers-note.md)
+  - [4-Node.js refreshers.md](Week%201%20(Introduction%20to%20Secure%20JavaScript%20Programming)/4-Node.js%20refreshers.md)
