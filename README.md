@@ -23,3 +23,6 @@ This course explores web authentication and best practices. Here, we will go thr
   - [2-Cookies in depth-note](Week2%20(Refreshers%20on%20Web%20Authentication)/2-Cookies%20n%20depth-note.md)
   - [3-Front-end Authentication Best Practices-note](Week2%20(Refreshers%20on%20Web%20Authentication)/3-Front-end%20Authentication%20Best%20Practices-note.md
 )
+
+### My Certificate
+![[certificated](https://coursera.org/share/e80eec9831d887a6717f3b47b8386461)](https://ehsan.storage.iran.liara.space/git-hub/Coursera-JavaScript-Security-Refreshers/jssr-cer.png)
