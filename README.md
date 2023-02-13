@@ -24,5 +24,6 @@ This course explores web authentication and best practices. Here, we will go thr
   - [3-Front-end Authentication Best Practices-note](Week2%20(Refreshers%20on%20Web%20Authentication)/3-Front-end%20Authentication%20Best%20Practices-note.md
 )
 
-### My Certificate
-![[certificated](https://coursera.org/share/e80eec9831d887a6717f3b47b8386461)](https://ehsan.storage.iran.liara.space/git-hub/Coursera-JavaScript-Security-Refreshers/jssr-cer.png)
+## My Certificate
+![p](https://ehsan.storage.iran.liara.space/git-hub/Coursera-JavaScript-Security-Refreshers/jssr-cer.png)
+### [Certificate links](https://coursera.org/share/e80eec9831d887a6717f3b47b8386461)
